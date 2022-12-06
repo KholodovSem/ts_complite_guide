@@ -23,3 +23,5 @@ let aNull = null;
 
 //* Symbol
 let aSymbol = Symbol();
+
+export {};
